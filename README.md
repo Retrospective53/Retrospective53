@@ -1,10 +1,3 @@
-<div align="center">
-
-[Email Me](harry.pseu53@gmail.com)
-
-</div>
-</p>    
-<br>
 <!-- Languages and Tools -->
 
 <h2 style="color: #44AEFB">⚙️ Languages and Tools</h2>
