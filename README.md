@@ -69,7 +69,7 @@
 <!-- Change the value after ?username= to your GitHub username. -->
 <div class="stats" align="center">
 
-![Retrospective53 GitHub Stats](https://github-readme-stats.vercel.app/api?username=Retrospective53&hide=stars&count_private=true&show_icons=true&theme=algolia&border_radius=20)
+![Retrospective53 GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Retrospective53&hide=stars&count_private=true&show_icons=true&theme=algolia&border_radius=20)
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=Retrospective53&count_private=true&theme=algolia&border_radius=20)
 
@@ -77,7 +77,7 @@
 
 <!-- compact programming languages layout -->
 
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Retrospective53&layout=compact&show_icons=true&theme=algolia&border_radius=20)
+![Most Used Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Retrospective53&layout=compact&show_icons=true&theme=algolia&border_radius=20)
 
 </div>
 <!--  End Stats Cards -->
